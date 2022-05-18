@@ -10,6 +10,4 @@ git push -u origin main
 git remote add origin https://github.com/sridevimondrati/javate3st.git
 git branch -M main
 git push -u origin main
-xmcznxczx,cl;sckas;lcnmvm
-mdcnsd,vmsdcvsdv./sdv
-cmdcdms,cmas;ldfjfdjdkgdflgk
+xmcznxczx,cl;sckas;lcnmv
